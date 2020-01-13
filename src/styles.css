@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.guess-bg {
+    background-image: url("assets/images/bg.jpg");
+    background-color: #f9a22e;
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+  }
