@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as $ from "jquery";
+import * as $ from 'jquery';
 
 @Component({
   selector: 'app-attendance',
@@ -9,9 +9,9 @@ import * as $ from "jquery";
 export class AttendanceComponent implements OnInit {
 
   public items = [
-    { id: 1, name: 'Tan Lo', isDefault: true },
-    { id: 2, name: 'To Lan', isDefault: false },
-    { id: 4, name: 'Lo Lo', isDefault: true },
+    { id: 1, name: 'Tan Lo123123', isDefault: true },
+    { id: 2, name: 'To Lan123123123', isDefault: false },
+    { id: 4, name: 'Lo Lo123123', isDefault: true },
     { id: 5, name: 'Lo Lo', isDefault: true },
     { id: 6, name: 'Lo Lo', isDefault: false },
     { id: 7, name: 'Lo Lo', isDefault: true },
